@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Publications - Stefan Frei</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="/assets/built/airstrap.css?v=c3281ef78b" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css?v=c3281ef78b" />
+
+    <link rel="canonical" href="https://techzoom.net/publications/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="Stefan Frei / techzoom.net" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Publications" />
+    <meta property="og:description" content="This is the landing page for the majority of my research output and contributions, mostly in the domain of cyber security." />
+    <meta property="og:url" content="https://techzoom.net/publications/" />
+    <meta property="og:image" content="https://techzoom.net/content/images/2020/05/bgb-zerochain-1.png" />
+    <meta property="article:published_time" content="2020-04-27T13:07:40.000Z" />
+    <meta property="article:modified_time" content="2020-06-19T22:24:50.000Z" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Publications" />
+    <meta name="twitter:description" content="This is the landing page for the majority of my research output and contributions, mostly in the domain of cyber security." />
+    <meta name="twitter:url" content="https://techzoom.net/publications/" />
+    <meta name="twitter:image" content="https://techzoom.net/content/images/2020/05/bgb-zerochain-1.png" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Stefan Frei" />
+    <meta name="twitter:site" content="@stefan_frei" />
+    <meta name="twitter:creator" content="@stefan_frei" />
+    <meta property="og:image:width" content="1196" />
+    <meta property="og:image:height" content="166" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Stefan Frei / techzoom.net",
+        "url": "https://techzoom.net/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://techzoom.net/favicon.ico",
+            "width": 48,
+            "height": 48
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Stefan Frei",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://techzoom.net/content/images/2020/06/Passformat-3x4.png",
+            "width": 400,
+            "height": 533
+        },
+        "url": "https://techzoom.net/author/stefanfrei/",
+        "sameAs": [
+            "https://techzoom.net",
+            "https://twitter.com/stefan_frei"
+        ]
+    },
+    "headline": "Publications",
+    "url": "https://techzoom.net/publications/",
+    "datePublished": "2020-04-27T13:07:40.000Z",
+    "dateModified": "2020-06-19T22:24:50.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://techzoom.net/content/images/2020/05/bgb-zerochain-1.png",
+        "width": 1196,
+        "height": 166
+    },
+    "description": "This is the landing page for the majority of my research output and contributions, mostly in the domain of cyber security.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://techzoom.net/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.36" />
+    <link rel="alternate" type="application/rss+xml" title="Stefan Frei / techzoom.net" href="https://techzoom.net/rss/" />
+    <!-- Global site tag (gtag.js) - Google Analytics V2 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169183981-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169183981-1');
+</script>    <script data-ad-client="ca-pub-8316637636294131" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
+
+<body class="page-template page-publications">
+    <div class="site-wrapper">
+
+        
+<header class="site-header">
+    <div class="outer site-nav-main">
+        <div class="inner">
+            <nav class="site-nav">
+
+    <div class="site-nav-left-wrapper">
+        <div class="site-nav-left">
+            <div class="site-nav-content">
+                    <ul class="nav">
+    <li class="nav-home"><a href="https://techzoom.net/">Home</a></li>
+    <li class="nav-tools"><a href="https://techzoom.net/lab/">Tools</a></li>
+    <li class="nav-security"><a href="https://techzoom.net/security/">Security</a></li>
+    <li class="nav-publications nav-current"><a href="https://techzoom.net/publications/">Publications</a></li>
+    <li class="nav-teaching"><a href="https://techzoom.net/teaching/">Teaching</a></li>
+    <li class="nav-author"><a href="https://techzoom.net/about/">Author</a></li>
+</ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="site-nav-right">
+            <a class="social-link social-link-tw" href="https://twitter.com/stefan_frei" title="Twitter" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+</a>
+            <a class="social-link social-link-tw" href="https://ch.linkedin.com/in/stefanfrei" title="Twitter" target="_blank" rel="noopener"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" class="svg-inline--fa fa-linkedin fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg></a>
+
+            <ul class="nav">
+    <li class="nav-me"><a href="https://techzoom.net/about/">Me</a></li>
+</ul>
+
+
+    </div>
+</nav>
+        </div>
+    </div>
+</header>
+
+
+    
+
+<main id="site-main" class="site-main outer">
+    <div class="inner">
+        <h5><a href="/publications/">PUBLICATIONS</a></h5>        <h1 class="post-full-title">Publications</h1>
+
+
+        <figure class="post-full-image">
+            <img
+                srcset="/content/images/size/w300/2020/05/bgb-zerochain-1.png 300w, /content/images/size/w600/2020/05/bgb-zerochain-1.png 600w, /content/images/size/w1000/2020/05/bgb-zerochain-1.png 1000w, /content/images/size/w2000/2020/05/bgb-zerochain-1.png 2000w"
+                sizes="(max-width: 800px) 400px, (max-width: 1170px) 1170px, 2000px"
+                src="/content/images/size/w2000/2020/05/bgb-zerochain-1.png"
+                alt="Publications"
+            />
+        </figure>
+
+        <h2>This is the landing page for the majority of my research output and contributions, mostly in the domain of cyber security.</h2>
+        <article class="post-full post page">
+
+            <p>Most of the writing is in English, some of my work is available or was translated to German. Head to the respective section below for a full list of the content in either language.</p>
+
+
+
+            <div class="airstrap">
+
+                <div class="card-deck">
+                    <div class="card">
+                        <div class="card-header text-center">
+                            <h2>Papers & Articles</h2>
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Industry and academic papers</h3>
+                            <p class="card-text">
+                                Repository of my industry & academic publications, and cyber security reports.
+                                <hr/>
+                                <ul>
+                                    <li><a class="card-link" href="/publication/papers"><strong>Papers & Whitepapers, Reports</strong> | English</a></li>
+                                    <li><a class="card-link" href="/publication/papers/de"><strong>Whitepaper, Berichte</strong> | Deutsch</a></li>
+                                </ul>
+                                <hr/>
+                                Main topics:
+                                </br>
+                                <a href="/tag/supply-chain-security/">Supply Chain Security</a> &bull;
+                                <a href="/tag/bug-bounty/">Bug Bounty</a> &bull;
+                                <a href="/tag/data-breach/">Data Breaches</a> &bull;
+                                <a href="/tag/osint/">OSINT</a> &bull;
+                                <a href="/tag/threats-trends/">Threats & Trends</a> &bull;
+                                <a href="/tag/aviation/">Aviation</a> &bull;
+                                <a href="/tag/e-voting/">e-Voting</a>
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header text-center">
+                            <h2>Articles & Guest Posts</h2>
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Articles and guest posts</h3>
+                            <p class="card-text">
+                                I mostly write in python, javascript, sql (and the like) and occasionally also in English or German.
+                                <hr/>
+                                <ul>
+                                    <li><a class="card-link" href="/publication/articles"><strong>Articles & Guest Posts</strong> | English</a></li>
+                                    <li><a class="card-link" href="/publication/articles/de"><strong>Artikel, Gastbeiträge</strong> | Deutsch</a></li>
+                                </ul>
+                                <hr/>
+                                Tags:
+
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+             <p></p>
+
+
+            <div class="airstrap">
+                <div class="card-deck">
+
+                    <div class="card">
+                        <div class="card-header text-center mb-3">
+                            <h2>Talks & Conferences</h2>
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Slides from guest talks and conferences</h3>
+                            <p class="card-text">
+                                I am a frequent speaker at industry events, invited talks, and at leading conferences & workshops.
+                                <hr/>
+                                <ul>
+                                    <li><a class="card-link" href="/publication/talks"><strong>Talks & Conferences</strong> | English</a></li>
+                                    <li><a class="card-link" href="/publication/talks/de"><strong>Vorträge, Konferenzen</strong> | Deutsch</a></li>
+                                </ul>
+                                <hr/>
+                                Tags:
+                                </br>
+                                <a href="/tag/blackhat/">BlackHat</a> &bull;
+                                <a href="/tag/defcon/">Defcon</a> &bull;
+                                <a href="/tag/first/">FIRST</a> &bull;
+                                <a href="/tag/isf/">ISF</a>
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header text-center mb-3">
+                            <h2>Press & Media Coverage</h2>
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Press & media coverage of my research output</h3>
+                            <p class="card-text">
+                                Some of my work resonated quite well with local and international press and media and I am frequently consulted for expert interviews.
+                                <hr/>
+                                <ul>
+                                    <li><a class="card-link" href="/publication/media"><strong>Press & Media Coverage</strong> | English</a></li>
+                                    <li><a class="card-link" href="/publication/media/de"><strong>Interviews, Medienberichte</strong> | Deutsch</a></li>
+                                </ul>
+                                <hr/>
+                                Tags:
+                                <br/>
+                                <a href="/tag/nzz">NZZ</a> &bull;
+                                <a href="/tag/tv">SRF TV</a> &bull;
+                                <a href="/tag/krebs-on-security">Krebs on Security</a> &bull;
+                                <a href="/tag/schneier-on-security">Schneier on Security</a> &bull;
+                                <a href="/tag/robert-lemos/">Robert Lemos</a> &bull;
+                                <a href="/tag/theregister">The Register</a> &bull;
+                                <a href="/tag/heise-security">Heise Security</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+    <h2>Recent Publications in English</h2>
+
+    <div class="post-feed">
+            <article class="post-card post tag-whitepaper tag-bug-bounty tag-supply-chain-security tag-osint featured no-image no-image">
+
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/whitepaper/bug-bounty-reloaded/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">
+                    Whitepaper
+                     (EN) 
+                    </div>
+                <h2 class="post-card-title">Bug Bounty Program of Last Resort</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>This paper makes the case for a centralized Bug Bounty Program of Last Resort to cover critical open-source projects and smaller vendors, who cannot fund them.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+
+                    <div class="author-name-tooltip">
+                        Stefan Frei
+                    </div>
+
+                    <a href="/author/stefanfrei/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2020/06/Passformat-3x4.png" alt="Stefan Frei" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/stefanfrei/">Stefan Frei</a></span>
+                <span class="post-card-byline-date"><time datetime="2021-02-04">4 Feb 2021</time> <span class="bull">&bull;</span> 2 min read</span>
+                <p>
+                        <i><a href="/tag/bug-bounty/">Bug Bounty</a> - </i>
+                        <i><a href="/tag/supply-chain-security/">Supply Chain Security</a> - </i>
+                        <i><a href="/tag/osint/">OSINT</a> - </i>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+ 
+            <article class="post-card post tag-whitepaper tag-supply-chain-security tag-threats-trends no-image no-image">
+
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/whitepaper/analysis-and-measures-to-secure-the-digital-supply-chain/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">
+                    Whitepaper
+                     (EN) 
+                    </div>
+                <h2 class="post-card-title">Analysis and measures to secure the digital supply chain</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>ICTSwitzerland | This white paper describes the risks of the digital supply chain and identifies essential measures for the security of both routine and critical functions in industry, government, the police and the military.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+
+                    <div class="author-name-tooltip">
+                        Stefan Frei
+                    </div>
+
+                    <a href="/author/stefanfrei/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2020/06/Passformat-3x4.png" alt="Stefan Frei" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/stefanfrei/">Stefan Frei</a></span>
+                <span class="post-card-byline-date"><time datetime="2019-09-23">23 Sep 2019</time> <span class="bull">&bull;</span> 1 min read</span>
+                <p>
+                        <i><a href="/tag/supply-chain-security/">Supply Chain Security</a> - </i>
+                        <i><a href="/tag/threats-trends/">Threats &amp; Trends</a> - </i>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+ 
+            <article class="post-card post tag-article tag-threats-trends featured no-image no-image">
+
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/article/scope-cyber-security-2017en/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">
+                    Article
+                     (EN) 
+                    </div>
+                <h2 class="post-card-title">SCOPE Asset Management: Cyber Security</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>The changes of the Internet are disruptive, like the introduction of the railroads and the automobile. This latest innovation is not the first to prompt critical questions regarding security and safety. New possibilities as well as threats emerge at the interfaces of technology, economy and society.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+
+                    <div class="author-name-tooltip">
+                        Stefan Frei
+                    </div>
+
+                    <a href="/author/stefanfrei/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2020/06/Passformat-3x4.png" alt="Stefan Frei" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/stefanfrei/">Stefan Frei</a></span>
+                <span class="post-card-byline-date"><time datetime="2018-06-01">1 Jun 2018</time> <span class="bull">&bull;</span> 1 min read</span>
+                <p>
+                        <i><a href="/tag/threats-trends/">Threats &amp; Trends</a> - </i>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+ 
+    </div>
+
+
+            
+    <h2>Aktuelle Publikationen auf Deutsch</h2>
+
+    <div class="post-feed">
+            <article class="post-card post tag-article tag-supply-chain-security tag-threats-trends tag-hash-de no-image no-image">
+
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/article/sicherheitsforum-lieferkette/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">
+                    Article
+                     (DE) 
+                    </div>
+                <h2 class="post-card-title">Risiken und Massnahmen
+zur Sicherung der digitalen Lieferkette</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>Ohne effektive Qualitätsprüfung von digitalen Produkten muss davon ausgegangen werden, dass kompromittierte Komponenten bereits heute im Einsatz sind. Durch glaubwürdige und unabhängige Tests ist die Sicherheit digitaler Produkte zu überprüfen.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+
+                    <div class="author-name-tooltip">
+                        Stefan Frei
+                    </div>
+
+                    <a href="/author/stefanfrei/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2020/06/Passformat-3x4.png" alt="Stefan Frei" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/stefanfrei/">Stefan Frei</a></span>
+                <span class="post-card-byline-date"><time datetime="2020-03-01">1 Mar 2020</time> <span class="bull">&bull;</span> 1 min read</span>
+                <p>
+                        <i><a href="/tag/supply-chain-security/">Supply Chain Security</a> - </i>
+                        <i><a href="/tag/threats-trends/">Threats &amp; Trends</a> - </i>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+ 
+            <article class="post-card post tag-whitepaper tag-supply-chain-security tag-threats-trends tag-hash-de no-image no-image">
+
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/whitepaper/analyse-massnahmen-zur-sicherung-der-digitalen-lieferkette/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">
+                    Whitepaper
+                     (DE) 
+                    </div>
+                <h2 class="post-card-title">Analyse &amp; Massnahmen zur Sicherung der digitalen Lieferkette</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>ICTSwitzerland | Dieses Whitepaper beschreibt die Risiken der digitalen Lieferkette und zeigt wesentliche Massnahmen zur Sicherung sowohl kritischer Funktionen in Industrie, Regierung, Polizei und Militär auf.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+
+                    <div class="author-name-tooltip">
+                        Stefan Frei
+                    </div>
+
+                    <a href="/author/stefanfrei/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2020/06/Passformat-3x4.png" alt="Stefan Frei" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/stefanfrei/">Stefan Frei</a></span>
+                <span class="post-card-byline-date"><time datetime="2019-09-23">23 Sep 2019</time> <span class="bull">&bull;</span> 1 min read</span>
+                <p>
+                        <i><a href="/tag/supply-chain-security/">Supply Chain Security</a> - </i>
+                        <i><a href="/tag/threats-trends/">Threats &amp; Trends</a> - </i>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+ 
+            <article class="post-card post tag-article tag-threats-trends tag-hash-de no-image no-image">
+
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/article/scope-cyber-security-2017de/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">
+                    Article
+                     (DE) 
+                    </div>
+                <h2 class="post-card-title">SCOPE Asset Management: Cyber Security</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>Die Digitalisierung ist nicht die erste Innovation, welche kritische Fragen zur Sicherheit aufwirft.  Neue Möglichkeiten wie auch Bedrohungen entstehen an den Schnittstellen von Technologie, Wirtschaft und Gesellschaft.  Welche Lehren der Geschichte können wir auf heute übertragen?</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+
+                    <div class="author-name-tooltip">
+                        Stefan Frei
+                    </div>
+
+                    <a href="/author/stefanfrei/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2020/06/Passformat-3x4.png" alt="Stefan Frei" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/stefanfrei/">Stefan Frei</a></span>
+                <span class="post-card-byline-date"><time datetime="2017-06-01">1 Jun 2017</time> <span class="bull">&bull;</span> 1 min read</span>
+                <p>
+                        <i><a href="/tag/threats-trends/">Threats &amp; Trends</a> - </i>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+ 
+    </div>
+
+
+        </article>
+    </div>
+</main>
+
+
+
+
+
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright">
+                    <a href="https://techzoom.net">Stefan Frei / techzoom.net</a> &copy; 2021
+                </section>
+                <a href="https://techzoom.net" target="_blank" rel="noopener"><b>tech</b>zoom.net</a><br/>
+                <nav class="site-footer-nav">
+
+                    <a href="https://twitter.com/stefan_frei" target="_blank" rel="noopener">Twitter</a>
+                    <a href="https://ch.linkedin.com/in/stefanfrei" title="Twitter" target="_blank" rel="noopener">LinkedIn</a>
+                </nav>
+            </div>
+            <div class="site-footer-content inner">
+                <p>Your IP: <span id="airip"></span></p>
+            </div>            
+        </footer>
+    </div>
+
+
+
+    <script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous">
+    </script>
+    <script src="/assets/built/casper.js?v=c3281ef78b"></script>
+
+    <script>
+        // Parse the URL parameter
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+
+        // Give the parameter a variable name
+        var action = getParameterByName('action');
+
+        $(document).ready(function () {
+            if (action == 'subscribe') {
+                $('body').addClass("subscribe-success");
+            }
+
+            $('.subscribe-success-message .subscribe-close').click(function () {
+                $('.subscribe-success-message').addClass('close');
+            });
+
+            // Reset form on opening subscrion overlay
+            $('.subscribe-button').click(function() {
+                $('.subscribe-overlay form').removeClass();
+                $('.subscribe-email').val('');
+            });
+        });
+    </script>
+
+    <script>
+    $(function() {
+        var $postContent = $(".post-full-content");
+        $postContent.fitVids();
+    });
+</script>
+
+
+    
+    <script src="/assets/built/air.js?v=c3281ef78b"></script>
+    <script src="/assets/built/js/bootstrap.bundle.min.js?v=c3281ef78b"></script>
+
+
+    <script type="text/javascript">
+    console.log(airctx);
+    $('#airip').html( airctx.srcip);
+</script>
+
+
+</body>
+</html>

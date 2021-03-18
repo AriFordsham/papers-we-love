@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head >
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Telecooperation Group – Telecooperation – Technical University of Darmstadt</title>
+<meta name="viewport" content="width=device-width"/>
+<meta name="format-detection" content="telephone=no">
+<meta name="dcterms.language" content="en"/>
+<meta name="dcterms.title" content="Telecooperation Group"/>
+<meta property="og:title" content="Telecooperation Group"/>
+<meta property="og:site_name" content="Telecooperation – Technical University of Darmstadt"/>
+<meta property="og:type" content="article"/>
+<meta name="keywords" content="home,index,Telecooperation Group"/>
+<meta name="author" content="Moldaner, Nadine"/>
+<meta name="dcterms.creator" content="Telecooperation"/>
+<meta name="robots" content="index,follow"/>
+<meta name="generator" content="FirstSpirit 5.2.210108.79507"/>
+<link rel="shortcut icon" href="/media/corporate_design/cd_grafiken/athene_favicon.ico" type="image/x-icon"/>
+<link rel="start" href="https://www.tu-darmstadt.de" title="Home"/>
+<link rel="contents" href="../sitemap.en.jsp" title="Sitemap"/>
+<link rel="copyright" href="../impressum.en.jsp" title="Legal note"/>
+<link rel="stylesheet" href="/media/corporate_design/cd_styles/tudarmstadt_v25.css"/>
+<style media="screen">.topnavigation,.navigationsspalte,.rechte_marginalienspalte,.rahmen_farbig,input[type=text]:focus,input[type=email]:focus,input[type=number]:focus,input[type=date]:focus,input[type=search]:focus,input[type=tel]:focus,input[type=url]:focus,textarea:focus,select:focus{border-color:#961C26}
+input[type=radio]:focus,input[type=submit]:focus,input[type=checkbox]:focus{box-shadow: 0 0 1px #961C26;}
+h1,h2,h3,h4,h1 a,h2 a,h3 a,legend{color:#961C26}
+a.aktiv,a.farbig,.farbig a,a:focus,a:hover,a:active{color:#961C26 !important}
+.klappbox a,.navigationsspalte a,.tabs a,.ep_toolbox{background-color:#EAD2D4}
+.headerbild_container{background-color:#961C26}</style>
+<style>.farbig,.zwischenueberschrift_2 td,.zwischenueberschrift_3 td{color:#961C26}
+.hg_farbig,.unterlegt{background-color:#961C26}
+.highlighted{background-color:#EAD2D4}
+</style>
+<style media="print">
+.page{border-top-color:#961C26;}
+</style>
+<script src="/media/corporate_design/gc_skripte/jquery_1_10_2.js"></script>
+<!--[if lt IE 9]><script src="/media/corporate_design/gc_skripte/html5.js"></script><![endif]-->
+</head>
+<body>
+<div class="page">
+<header class="header">
+<h1 class="display-none">Telecooperation Group</h1>
+<!-- noindex -->
+<div class="topnavigation"><a class="zum_inhalt float-left unterstrichen" href="#content" title="Skip navigation [Alt(+Shift)+S]" accesskey="S">Jump to content</a>&#160;<a title="Login to website with TU-ID" href="https://sso.tu-darmstadt.de/login?service=https%3A%2F%2Fwww.informatik.tu-darmstadt.de%2Ftelekooperation%2Ftelecooperation_group%2Findex.en.jsp">Log in</a> | <span class="inaktiv">Deutsch</span></div><div class="hauptnavigation_container"><div class="hauptnavigation_suche float-left"><form accept-charset="UTF-8" action="../suche.en.jsp" id="fs_top" method="get"><fieldset><label for="query_top" class="display-none">Search:</label><input type="search" id="query_top" class="hauptnavigation_suchfeld" name="q" placeholder="Search"/><input type="submit" class="display-none" value="Submit"/><a class="submit fa fa-search fa-fw submit" href="#" title="Submit" aria-hidden="true"></a></fieldset></form></div><nav class="hauptnavigation"><ul class="hauptmenue"><li class="hauptmenuepunkt display-block float-left"><a href="http://www.tu-darmstadt.de/" title="Technische Universität Darmstadt: Home">TU</a></li><li class="delimiter hauptmenuepunkt display-block float-left">|</li><li class="hauptmenuepunkt display-block float-left"><a href="https://www.informatik.tu-darmstadt.de" title="FB Informatik">FB Informatik</a></li><li class="delimiter hauptmenuepunkt display-block float-left">|</li><li class="hauptmenuepunkt display-block float-left"><a href="index.en.jsp" class="aktiv" data-sub="nav9227656_sub">Telecooperation Lab</a></li><li class="delimiter hauptmenuepunkt display-block float-left">|</li><li class="hauptmenuepunkt display-block float-left"><a href="../research_2/index.en.jsp" data-sub="nav9227657_sub" id="nav9227657">Research</a></li><li class="delimiter hauptmenuepunkt display-block float-left">|</li><li class="hauptmenuepunkt display-block float-left"><a href="../teaching_6/index.en.jsp" data-sub="nav9227658_sub" id="nav9227658">Teaching</a></li></ul><div class="clear"></div></nav><div class="clear"></div></div>
+<div class="headerbild_container"><img class="headerbild" src="/media/header/header_telekooperation/tu_header.jpg" alt="" width="931" height="145"/><div class="logo"><a class="display-block marginalienspalte" href="http://www.tu-darmstadt.de" title="Home"><img src="/media/corporate_design/cd_grafiken/tud_logo_web_druck.png" alt="Logo der TU Darmstadt" width="182" height="84"/></a></div></div>
+<nav class="breadcrumbs"><span class="display-none">You are here:</span><ol><li><a href="http://www.tu-darmstadt.de/">TU Darmstadt</a></li><li class="fa fa-angle-double-right" aria-hidden="true"></li><li><a href="http://informatik.tu-darmstadt.de">Informatik</a></a></li><li class="fa fa-angle-double-right" aria-hidden="true"></li><li><a href="index.en.jsp">Telekooperation</a></li><li class="fa fa-angle-double-right" aria-hidden="true"></li><li><span class="grau">Telecooperation Lab</span></li></ol><div class="clear"></div></nav>
+</header>
+<div class="middle">
+<nav class="navigationsspalte float-left margin-right-normal"><h1><a class="aktiv ohne_abstand" href="index.en.jsp">Telecooperation Lab</a></h1><ul class="rahmenlinie_unten"><li><a href="news_1/index.en.jsp" class="ebene1"><span class="menu-icon hidden float-right farbig fa fa-angle-double-down" aria-hidden="true"></span>News</a></li><li><a href="jobs_1/index.en.jsp" class="ebene1">Job offers</a></li><li><a href="staff_1/index.en.jsp" class="ebene1"><span class="menu-icon hidden float-right farbig fa fa-angle-double-down" aria-hidden="true"></span>Staff</a></li><li><a href="directions_1/index.en.jsp" class="ebene1">Directions</a></li><li><a href="internal_2/index.en.jsp" class="ebene1">Internal</a></li></ul></nav>
+<!-- index -->
+<div id="content" class="content">
+<div class="zentrale_spalte eine_spalte float-left margin-right-normal">
+<main>
+<a id="welcome_to_telecooperation"></a>
+<h1>Welcome to Telecooperation</h1>
+<section id="content_mainpage">
+<div class="toggle expanded divider">
+<p>Telecooperation Lab (TK) at Darmstadt Technical University, Department of Computer Science, researches concepts and methods for human-centered smart spaces of all sizes: from personal cyber workstations and intelligent meeting rooms to smart cities and intelligent, resilient infrastructures. Our unique strength is our ability to combine different research areas in support of Smart Spaces: advanced networking (e.g. Edge Computing and IoT platforms), applied AI (e.g. Federated Assistance and Process Mining), HCI (e.g. AR/VR and Tangible 3D-Printed Interaction) and cybersecurity (e.g. Privacy and Trust).</p><p>Prof. Dr. Max M&#252;hlh&#228;user is heading this group together with several senior researchers and group leaders. We coordinate a doctoral school (DFG Research Training Group) on <a href="https://www.informatik.tu-darmstadt.de/privacy-trust/privacy_and_trust/index.en.jsp">Privacy and Trust for Mobile Users</a>, play a major role in the national cooperative research center on the Future Internet and conduct various research projects funded by the EU, federal and state ministries, and industry.</p><p></p>
+</div>
+</section>
+<section id="faq">
+<div class="faq" id="faq_9264816">
+<div class="dreiviertel_abstand">
+<div class="frage viertel_abstand">
+<a class="frage_link schriftfarbe strong" href="#" title="Toggle answer">read more</a>
+</div>
+<div class="antwort">
+<p>Our research and teaching is devoted to Ubiquitous Computing in the Future Internet. We investigate information technology for humans who are surrounded by many networked computers anytime and anywhere, most of which are either embedded in the real world or worn or carried by humans.</p><p></p><p>Pervasive Computing, Smart Spaces (Products, Rooms, Homes &#38; Enterprises, Cities &#38; Communities) and Ambient Intelligence are related terms used in the literature. The envisioned scenarios demand advancements in several traditional IT disciplines that must be interwoven:</p><p></p><p><strong>(1) Ubiquitous Internet &#38; Distributed Systems [Cooperation]:</strong> on the lower layers (computer networks), we conduct research on, e.g., energy efficient, infrastructure-less sensor networks on service-overlay networks; on the systems level, we investigate middleware and software engineering for smart environments and smart cities, social networks (IPTV-augmented etc.), privacy respecting publish-subscribe systems, in-network processing of cooperative knowledge and big data;</p><p></p><p><strong>(2) Ubiquitous Human Computer Interaction [Interaction]: </strong>in this field, we investigate novel interaction concepts for future mobile devices (rollable, foldable, glass-based, pico-projector-based), embodied and tangible interaction, and cooperative work settings &#8211; in particular based on tabletops;</p><p></p><p><strong>(3) Ubiquitous IT Security [Protection]: </strong>Here, our research concentrates on resilient critical infrastructures (as part of future energy networks, emergency response networks, Internet-of-Things-and-Services etc.), ubiquitous privacy &#38; anonymity, and computational trust (as a means for assessing the trustworthiness and quality of data, services, humans, IT security provision, cloud providers, organizations, products and the like).</p><p></p><p>Details about the organization and a description of our research can be found on our research pages.</p><p></p><p>We invite you to share our vision as you visit our Web pages.</p>
+</div>
+</div>
+</div>
+</section>
+<script>
+$(function(){
+$("#faq_9264816 .antwort").hide();
+$("#faq_9264816 .frage_link").prepend("<span class=\"fa fa-chevron-right\"></span>");
+$("#faq_9264816 .frage_link").click(function(e){
+$(this).parent().next(".antwort").slideToggle("fast");
+$(this).find(".fa").toggleClass("fa-chevron-right");
+$(this).find(".fa").toggleClass("fa-chevron-down");
+e.preventDefault();
+});
+});
+</script><div>&#160;</div><a id="headline_brochure"></a>
+<h1>Brochure Telecooperation Lab</h1>
+<section id="content_brochure" class="image-left">
+<div class="float-left margin-right-normal">
+<figure><a class="lightbox" href="/media/telekooperation/corporate_content/csm_Cover_Booklet_2017_654e70d79e.jpg" title="Enlarge image"><img src="/media/telekooperation/corporate_content/csm_Cover_Booklet_2017_654e70d79e_255x0.jpg" width="255" height="155" alt="TK_Booklet_front"/></a></figure>
+</div>
+<p>The history and current research activities of our Lab are described in our recent brochure.</p><p><a href="/media/telekooperation/corporate_content/TK_Booklet_small.pdf" target="_blank" title="PDF-File, 4082kB"><span class="fa fa-file-pdf-o"></span>Download TK brochure (4 MB)</a></p>
+<div class="clear"></div>
+</section>
+<div>&#160;</div>
+<section id="news">
+<h1>News</h1>
+<ul class="dq-liste clear">
+<li class="dq-liste-eintrag rahmenlinie_oben" itemscope itemtype="http://schema.org/Article">
+<p class="grau float-right margin-left-normal">
+2020/09/18
+<meta itemprop="datePublished" content="2020-09-18"/>
+</p>
+<h2 itemprop="headline">
+<a href="telecooperationgroup_details_205568.en.jsp">
+Paper accepted at ACM TOPS Journal
+</a>
+</h2>
+<div class="clear"></div>
+<p itemprop="about">
+We are thrilled to announce that our paper &#8220;On generating network traffic datasets with synthetic attacks for intrusion detection&#8221; is accepted at ACM Transactions on Privacy and Security (TOPS) journal.
+<a itemprop="url" class="farbig ohne_umbruch" href="telecooperationgroup_details_205568.en.jsp" title="go to complete news: &#34;Paper accepted at ACM TOPS Journal&#34;">go<span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
+</p>
+</li>
+<li class="dq-liste-eintrag rahmenlinie_oben" itemscope itemtype="http://schema.org/Article">
+<p class="grau float-right margin-left-normal">
+2020/07/29
+<meta itemprop="datePublished" content="2020-07-29"/>
+</p>
+<h2 itemprop="headline">
+<a href="telecooperationgroup_details_202112.en.jsp">
+Article published in Sensors 2020 Journal.
+</a>
+</h2>
+<div class="clear"></div>
+<p itemprop="about">
+The article “Detecting and Tracking Criminals in the Real World through an IoT-Based System” has been published in Sensors Journal, in July 2020.
+<a itemprop="url" class="farbig ohne_umbruch" href="telecooperationgroup_details_202112.en.jsp" title="go to complete news: &#34;Article published in Sensors 2020 Journal. &#34;">go<span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
+</p>
+</li>
+</ul>
+</section>
+</main>
+</div>
+<aside class="rechte_marginalienspalte float-left abstand">
+<div class="viertel_abstand_oben viertel_abstand">
+<figure><a class="details" href="https://www.informatik.tu-darmstadt.de/telekooperation" title="Home"><img src="/media/telekooperation/logos_6/tk_HintergrundTransparent_182x0.png" width="182" height="126" alt="TKLogo"/></a></figure>
+</div>
+<div class="viertel_abstand_oben viertel_abstand">
+<figure><a class="details" href="https://www.informatik.tu-darmstadt.de/telekooperation" title="Home"><img src="/media/telekooperation/logos_6/FB-Informatik-Logo_DE_written-out_rgb_182x0.png" width="182" height="55" alt=""/></a></figure>
+</div>
+<section class="kontaktinformationen">
+<h1>Contact</h1>
+<p itemscope itemtype="http://schema.org/CollegeOrUniversity">
+<span itemprop="name">
+Technical University of Darmstadt
+</span>
+<br/>
+<span itemprop="department">
+Telecooperation
+</span>
+</p>
+<div itemscope itemtype="http://schema.org/Person">
+<div class="float-right margin-left-halb abstand">
+<figure><a class="lightbox" href="/media/telekooperation/personal_bilder/MM.jpg" title="Enlarge image"><img itemprop="image" src="/media/telekooperation/personal_bilder/MM_44x0.jpg" width="44" height="57" alt=""/></a></figure>
+</div>
+<div class="vcard">
+<address>
+<p>
+<span itemprop="honorificPrefix">Prof. Dr.</span>
+<span itemprop="name" class="fn">Max
+Mühlhäuser</span>
+</p>
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="adr"><span class="type display-none">Work</span>
+S2|02 A114<br/>
+<span itemprop="streetAddress" class="street-address">Hochschulstraße 10</span><br/>
+<span itemprop="postalCode" class="postal-code">64289</span>
+<span itemprop="addressLocality" class="locality">Darmstadt</span>
+<meta itemprop="addressCountry" content="DE"/>
+</p>
+<p>
+<span class="tel" itemprop="telephone"><span class="type display-none">work </span><span class="fa fa-phone fa-fw"></span>+49 6151 16-23200</span><br/>
+<span itemprop="faxNumber"><span class="type display-none">fax </span><span class="fa fa-fax fa-fw"></span>+49 6151 16-23202 </span><br/>
+</p>
+<p><span class="email" title="Replace «tu-» by «tu-darmstadt.de»"><span class="fa fa-envelope-o fa-fw"></span>max&#064;tk.tu-...</span></p>
+</address>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+<div class="inhalt">
+<a id="your_way_to_the_tk"></a>
+<h1>Your way to TK</h1>
+<section id="way_to_tk">
+<figure><a href="directions_1/index.en.jsp"><img src="/media/telekooperation/logos_6/stadtmitte1211_529x0.jpg" width="181" height="136" alt="https://www.tu-darmstadt.de/media/dezernat_iv/lageplnews0809/stadtmitte1211_529x0.jpg"/></a></figure>
+</section>
+</div>
+</aside>
+</div>
+<div class="clear"></div>
+<p class="rechts"><a class="farbig fa fa-angle-double-up fa-lg" href="#top" target="_self" title="to top"></a><br/>&#160;</p>
+</div>
+</div>
+<footer class="footer">
+<a class="drucken" href="#">Print</a>
+| <a href="../impressum.en.jsp" accesskey="8" title="Alt(+Shift)+8">Legal note</a>
+| <a href="../sitemap.en.jsp" accesskey="3" title="Alt(+Shift)+3">Sitemap</a>
+| <a href="../suche.en.jsp">Search</a>
+| <a href="https://www.tu-darmstadt.de/datenschutzerklaerung">Privacy Policy</a>
+</footer>
+<!--
+Date of last change: 2019-04-03T13:30:03CEST
+-->
+<script>$(function(){
+$("<div/>",{id:"klappmenue_temp",class:"display-none"})
+.appendTo(".hauptnavigation")
+.load("../klappmenue.en.jsp",'',function(){
+$("#klappmenue_temp a[data-ref=9227649]").addClass("aktiv");
+$("#klappmenue_temp .klappbox").each(function(){
+$("a[data-sub="+$(this).attr("id")+"]").parent().append($(this));
+});
+});
+});</script>
+<script src="/media/corporate_design/gc_skripte/tudarmstadt_v16.en.js"></script>
+<div id="cookie-modal" class="content" style="min-height:auto; width:315px; display:none;">
+<p class="viertel_abstand">We would like to customise the information and usability of this website to your preferences and needs.
+To this end, we use so-called cookies. Please choose which cookies you would like to enable when visiting our webpages.<br/>
+Some of these cookies are required to load and correctly display this website on your device.
+These are strictly necessary or essential cookies and cannot be deselected.<br/>
+The preferences cookie saves your language setting, while the statistics cookie regulates
+how the open-source statistical software “Matomo” analyses your visits to and activities on our website.<br/>
+For more information about cookies we use, please refer to our
+<a href="https://www.tu-darmstadt.de/datenschutzerklaerung">Privacy Policy</a>.</p>
+<form id="cookie-form" class="formular halber_abstand">
+<div class="halber_abstand">
+<label class="normal"><input type="checkbox" name="acceptedCookies" value="essential" checked="checked" disabled="disabled"/> Only essentials</label>
+<label class="normal"><input type="checkbox" name="acceptedCookies" value="usability"/> Usability</label>
+<label class="normal"><input type="checkbox" name="acceptedCookies" value="statistics"/> Statistics</label>
+</div>
+<div>
+<button type="button" class="box hg_farbig margin-right-halb rahmen_farbig weiss" aria-label="Accept all" aria-controls="cookie-form" onclick="acceptCookies(true)">
+<strong>Accept all</strong>
+</button>
+<button type="button" class="box" aria-label="Save & exit" aria-controls="cookie-form" onclick="acceptCookies(false)">
+Save & exit
+</button>
+</div>
+</form>
+<p>
+<a href="../impressum.en.jsp">Legal note</a>
+</p>
+</div>
+<a id="cookie-modal-link" class="display-none" href="#cookie-modal">
+Trigger the fancybox
+</a>
+<script>
+jQuery(function($){
+if(!Cookies.get("cookie-consent")){
+$("#cookie-modal-link").trigger('click');
+}
+});
+</script>
+</body>
+</html>
